@@ -1,2 +1,4 @@
 # LeetCode-solutions
-LeetCode practice solutions and portfolio for R25EF026
+Amruta Sulibhavi
+R25EF026
+LeetCode practice solutions and portfolio
